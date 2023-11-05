@@ -4,7 +4,7 @@
 
 The Calculator App is a simple and user-friendly tool for performing basic mathematical calculations on your device. Whether you need to add, subtract, multiply, or divide, this app provides a straightforward solution for your mathematical needs.
 
-![Calculator App Screenshot](screenshot.png)
+![Calculator App Screenshot](public/screenshot.png)
 
 ## Features
 
@@ -35,3 +35,4 @@ To run this app on your local development environment, follow these steps:
    ```bash
    git clone https://github.com/chibuzor9/calculator-app.git
    ```
+2. And your good to go
