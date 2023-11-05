@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+
+/* Media query for mobile
+@media screen and (min-width: 420px) {
+  .button {
+    width: 5vw;
+    height: 4vh;
+  }
+} */
+
+* {
+  font-family: "Fira Code", monospace;
+}
+body {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.clear-history {
+  width: 10rem;
+}
+.button {
+  width: 10vw;
+  height: 8vh;
+}
+.display {
+  height: 20vh;
+  font-size: 1.2rem;
+}
+.input {
+  height: 1.5vh;
+}
+.result {
+  font-size: 8vh;
+}
+.modal {
+  height: 85vh;
+}
+li {
+  list-style: none;
+}
