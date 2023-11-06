@@ -2,7 +2,7 @@ const display = document.querySelector('.display')
 const input = document.querySelector('#input-el')
 const result_view = document.querySelector('.result')
 
-const inputButtons = document.getElementById('input-button');
+const inputButtons = document.querySelectorAll('.input-button');
 
 
 const equals = document.getElementById('equals')
