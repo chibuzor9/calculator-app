@@ -11,7 +11,7 @@ const five = document.querySelector('#five')
 const six = document.querySelector('#six')
 const seven = document.querySelector('#seven')
 const eight = document.querySelector('#eight')
-const nine = document.querySelector('#nine')
+//const nine = document.querySelector('#nine')
 const decimal = document.querySelector('#decimal')
 
 const add = document.querySelector('#add')
@@ -25,6 +25,15 @@ const clear = document.querySelector('#clear')
 
 const modal_body = document.querySelector('.modal-body')
 const clear_history = document.querySelector('#clear-history')
+
+const numericButtons = document.querySelectorAll('.numeric-button');
+
+numericButtons.forEach(button => {
+    button.addEventListener('click', function () {
+        display.value += button.textContent;
+    });
+});
+
 
 input.addEventListener('keyup', function (event) {
     if (event.key === "Enter" || event.keyCode === 13) {
