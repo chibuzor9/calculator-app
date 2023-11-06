@@ -2,22 +2,9 @@ const display = document.querySelector('.display')
 const input = document.querySelector('#input-el')
 const result_view = document.querySelector('.result')
 
-const zero = document.querySelector('#zero')
-const one = document.querySelector('#one')
-const two = document.querySelector('#two')
-const three = document.querySelector('#three')
-const four = document.querySelector('#four')
-const five = document.querySelector('#five')
-const six = document.querySelector('#six')
-const seven = document.querySelector('#seven')
-const eight = document.querySelector('#eight')
-//const nine = document.querySelector('#nine')
-const decimal = document.querySelector('#decimal')
+const inputButtons = document.getElementById('input-button');
 
-const add = document.querySelector('#add')
-const subtract = document.querySelector('#subtract')
-const multiply = document.querySelector('#multiply')
-const divide = document.querySelector('#divide')
+
 const equals = document.getElementById('equals')
 
 const history = document.querySelector('#history')
@@ -26,9 +13,8 @@ const clear = document.querySelector('#clear')
 const modal_body = document.querySelector('.modal-body')
 const clear_history = document.querySelector('#clear-history')
 
-const numericButtons = document.querySelectorAll('.numeric-button');
 
-numericButtons.forEach(button => {
+inputButtons.forEach(button => {
     button.addEventListener('click', function () {
         display.value += button.textContent;
     });
@@ -40,55 +26,6 @@ input.addEventListener('keyup', function (event) {
         equals.click();
     }
 })
-
-zero.addEventListener('click', function () {
-    display.value += 0;
-});
-one.addEventListener('click', function () {
-    display.value += 1;
-});
-two.addEventListener('click', function () {
-    display.value += 2;
-});
-three.addEventListener('click', function () {
-    display.value += 3;
-});
-four.addEventListener('click', function () {
-    display.value += 4;
-});
-five.addEventListener('click', function () {
-    display.value += 5;
-});
-six.addEventListener('click', function () {
-    display.value += 6;
-});
-seven.addEventListener('click', function () {
-    display.value += 7;
-});
-eight.addEventListener('click', function () {
-    display.value += 8;
-});
-nine.addEventListener('click', function () {
-    display.value += 9;
-});
-decimal.addEventListener('click', function () {
-    display.value += '.';
-});
-
-
-
-add.addEventListener('click', function () {
-    display.value += '+';
-});
-subtract.addEventListener('click', function () {
-    display.value += '-';
-});
-multiply.addEventListener('click', function () {
-    display.value += '*';
-});
-divide.addEventListener('click', function () {
-    display.value += '/';
-});
 
 equals.addEventListener('click', function () {
     let result = display.value;
