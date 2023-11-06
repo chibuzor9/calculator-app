@@ -21,7 +21,7 @@ To use the Calculator App, follow these simple steps:
 2. Launch the app from your device's home screen.
 3. Use the on-screen keypad to input your mathematical expression.
 4. Press the equal sign (=) to see the result.
-5. You can clear the current input by pressing the "C" button or the entire history by long-pressing "C."
+5. You can clear the current input by pressing the "Clear" button or the entire history by pressing "History"
 
 ## Development
 
