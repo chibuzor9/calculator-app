@@ -11,7 +11,6 @@ The Calculator App is a simple and user-friendly tool for performing basic mathe
 - Basic arithmetic operations (addition, subtraction, multiplication, and division).
 - Clear and intuitive user interface.
 - History of calculations.
-- Support for both portrait and landscape orientations.
 
 ## Getting Started
 
@@ -36,6 +35,10 @@ To run this app on your local development environment, follow these steps:
    git clone https://github.com/chibuzor9/calculator-app.git
    ```
 2. And your good to go
+
+## Upcoming Features
+- A responsive design where you can use this app everywhere and on all device. (Available only for desktops or landscape orientations)
+- There will be an option to install the app as a PWA
 
 ## Problems or Bugs
 
