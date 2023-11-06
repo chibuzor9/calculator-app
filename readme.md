@@ -36,10 +36,10 @@ To run this app on your local development environment, follow these steps:
    ```
 2. And your good to go
 
-## Upcoming Features
+### Upcoming Features
 - A responsive design where you can use this app everywhere and on all device. (Available only for desktops or landscape orientations)
 - There will be an option to install the app as a PWA
 
-## Problems or Bugs
+### Problems or Bugs
 
 You will experience bugs when trying to access your history after a calculation. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
