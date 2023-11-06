@@ -36,3 +36,7 @@ To run this app on your local development environment, follow these steps:
    git clone https://github.com/chibuzor9/calculator-app.git
    ```
 2. And your good to go
+
+## Problems or Bugs
+
+You will experience bugs when trying to access your history after a calculation. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
