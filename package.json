@@ -1,0 +1,17 @@
+{
+    "name": "calculator-app",
+    "version": "1.0.0",
+    "description": "A standard calculator",
+    "prettier": {
+		"tabWidth": 2,
+		"printWidth": 80,
+		"useTabs": true,
+		"quoteProps": "as-needed",
+		"bracketSameLine": true,
+		"semi": true,
+		"singleQuote": true,
+		"trailingComma": "es5",
+		"bracketSpacing": true
+	}
+  }
+  
