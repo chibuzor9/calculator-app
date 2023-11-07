@@ -1,7 +1,7 @@
 # Calculator App 🧮
 
 ## 📜 Table of Contents
-
+## Development 
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
