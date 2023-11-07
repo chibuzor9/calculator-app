@@ -42,4 +42,4 @@ To run this app on your local development environment, follow these steps:
 
 ### Problems or Bugs
 
-You will experience bugs when trying to access your history after a calculation. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
+You will experience bugs when trying to access your history after clearing the hisory. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
