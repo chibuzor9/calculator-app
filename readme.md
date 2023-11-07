@@ -43,3 +43,7 @@ To run this app on your local development environment, follow these steps:
 ### Problems or Bugs
 
 You will experience bugs when trying to access your history after clearing the history. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
+
+## 🙏 Support
+
+Please support this project by giving it a star. Don't forget to star it okay 😉
