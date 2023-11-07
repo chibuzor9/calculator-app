@@ -2,14 +2,14 @@
 
 ## 📜 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Development](#development)
+- [Overview](#%EF%B8%8F-overview)
+- [Features](#%EF%B8%8F-features)
+- [Development](#development-)
+- [Getting Started](#%EF%B8%8Fgetting-started)
 - [Installation](#installation)
-- [Upcoming Features](#upcoming-features)
-- [Problems](#problems)
-- [Support](#support)
+- [Upcoming Features](#-upcoming-features)
+- [Problems](#-problems)
+- [Support](#-support)
 
 ## ☁️ Overview
 
