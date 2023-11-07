@@ -2,10 +2,10 @@
 
 ## 📜 Table of Contents
 
-- [Overview](#☁️-overview)
-- [Features](#✨️-features)
+- [Overview](#%EF%B8%8F-overview)
+- [Features](#%EF%B8%8F-features)
 - [Development](#development-)
-- [Getting Started](#✋️getting-started)
+- [Getting Started](#%EF%B8%8Fgetting-started)
 - [Installation](#installation)
 - [Upcoming Features](#-upcoming-features)
 - [Problems](#-problems)
