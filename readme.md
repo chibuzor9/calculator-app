@@ -25,7 +25,7 @@ The Calculator App is a simple and user-friendly tool for performing basic mathe
 - History of calculations.
 
 
-## Development 👨‍💻 {#development}
+## Development 👨‍💻
 
 This app is built using Javascript, and you can find the source code in the [repository](https://github.com/chibuzor9/calculator-app). Feel free to explore the code, report issues, and contribute to its development.
 
