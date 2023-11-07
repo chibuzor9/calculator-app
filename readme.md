@@ -12,13 +12,13 @@
 - [Support](#support)
 
 
-## ☁️ Overview {#overview}
+## ☁️ Overview 
 
 The Calculator App is a simple and user-friendly tool for performing basic mathematical calculations on your device. Whether you need to add, subtract, multiply, or divide, this app provides a straightforward solution for your mathematical needs.
 
 ![Calculator App Screenshot](public/screenshot.png)
 
-## ✨️ Features {#features}
+## ✨️ Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, and division).
 - Clear and intuitive user interface.
