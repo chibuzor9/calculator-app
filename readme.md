@@ -24,7 +24,12 @@ The Calculator App is a simple and user-friendly tool for performing basic mathe
 - Clear and intuitive user interface.
 - History of calculations.
 
-## Getting Started
+
+## Development 👨‍💻 
+
+This app is built using Javascript, and you can find the source code in the [repository](https://github.com/chibuzor9/calculator-app). Feel free to explore the code, report issues, and contribute to its development.
+
+## ✋️Getting Started {#getting-started}
 
 To use the Calculator App, follow these simple steps:
 
@@ -48,8 +53,9 @@ To run this app on your local development environment, follow these steps:
 - A responsive design where you can use this app everywhere and on all device. (Available only for desktops or landscape orientations)
 - There will be an option to install the app as a PWA
 
-### Problems or Bugs
+### 🪲 Problems {#problems}
+You will experience minor issues when trying to access your history after clearing the history. But don't worry refresh and it shows. I'm still trying to fix it. Thank YOU 😊
 
-You will experience bugs when trying to access your history after clearing the history. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
+## 🙏 Support {#support}
 
 Please support this project by giving it a star. Don't forget to star it okay 😉
