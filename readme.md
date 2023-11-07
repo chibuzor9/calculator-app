@@ -1,11 +1,11 @@
 # Calculator App 🧮
 
 ## 📜 Table of Contents
-## Development 
+
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Development](#development)
+- [Development](#Development)
 - [Installation](#installation)
 - [Upcoming Features](#upcoming-features)
 - [Problems](#problems)
