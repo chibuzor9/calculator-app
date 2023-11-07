@@ -2,7 +2,7 @@
 
 ## 📜 Table of Contents
 
-- [Overview](#%EF%B8%8F-overview)
+- [Overview](#%EF%B8%8F-overview-)
 - [Features](#%EF%B8%8F-features)
 - [Development](#development-)
 - [Getting Started](#%EF%B8%8Fgetting-started)
