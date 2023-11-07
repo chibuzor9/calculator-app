@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Development](#Development)
+- [Development](#development)
 - [Installation](#installation)
 - [Upcoming Features](#upcoming-features)
 - [Problems](#problems)
@@ -34,7 +34,7 @@ To use the Calculator App, follow these simple steps:
 4. Press the equal sign (=) to see the result.
 5. You can clear the current input by pressing the "Clear" button or the entire history by pressing "History"
 
-## {#development} 👨‍💻 Development
+## 👨‍💻 Development <a name="development"></a>
 
 This app is built using Javascript, and you can find the source code in the [repository](https://github.com/chibuzor9/calculator-app). Feel free to explore the code, report issues, and contribute to its development.
 
