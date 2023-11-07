@@ -1,18 +1,18 @@
-# Calculator App
+# Calculator App 🧮
 
-## Overview
+## ☁️ Overview
 
 The Calculator App is a simple and user-friendly tool for performing basic mathematical calculations on your device. Whether you need to add, subtract, multiply, or divide, this app provides a straightforward solution for your mathematical needs.
 
 ![Calculator App Screenshot](public/screenshot.png)
 
-## Features
+## ✨️ Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, and division).
 - Clear and intuitive user interface.
 - History of calculations.
 
-## Getting Started
+## ✋️Getting Started
 
 To use the Calculator App, follow these simple steps:
 
@@ -22,11 +22,11 @@ To use the Calculator App, follow these simple steps:
 4. Press the equal sign (=) to see the result.
 5. You can clear the current input by pressing the "Clear" button or the entire history by pressing "History"
 
-## Development
+## 👨‍💻 Development
 
 This app is built using Javascript, and you can find the source code in the [repository](https://github.com/chibuzor9/calculator-app). Feel free to explore the code, report issues, and contribute to its development.
 
-### Installation
+###  Installation
 
 To run this app on your local development environment, follow these steps:
 
@@ -36,11 +36,11 @@ To run this app on your local development environment, follow these steps:
    ```
 2. And your good to go
 
-### Upcoming Features
+### 🤤 Upcoming Features
 - A responsive design where you can use this app everywhere and on all device. (Available only for desktops or landscape orientations)
 - There will be an option to install the app as a PWA
 
-### Problems or Bugs
+### 🪲 Problems or Bugs
 
 You will experience bugs when trying to access your history after clearing the history. But don't worry refresh and it shows. I'm still trying to fix the bug. Thank YOU 😊
 
