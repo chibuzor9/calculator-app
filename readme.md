@@ -1,4 +1,4 @@
-# Calculator App 🧮
+# [Calculator App 🧮](#chibuzor9.github.io/calculator-app/src.index.html)
 
 ## 📜 Table of Contents
 
